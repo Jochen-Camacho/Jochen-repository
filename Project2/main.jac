@@ -1,3 +1,6 @@
+//Chat boy for information about universities 
+//Trying to implement the tag feature
+
 import {*} with "./graph.jac";
 import {*} with "./walkers.jac";
 
